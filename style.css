@@ -1,0 +1,29 @@
+body{
+	font-family:arrial,sena-serif;
+}
+	header{
+text-align:center;
+color:#D51A1A;
+width:auto;
+height:80px;
+background-color:#252738;
+padding:20px 30px;
+	}
+section{
+text-align:center;
+padding:20px 30px;
+background-color:#A2A8E8;
+margin-bottom:100px;
+}
+h1{
+	color:yellow;
+}
+h2{
+	color:green;
+}
+h3{
+	color:pink;
+}
+
+	
+		
